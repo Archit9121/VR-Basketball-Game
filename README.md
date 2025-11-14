@@ -1,6 +1,5 @@
 # 🏀 VR Basketball Shooter
 
-![Basketball Shooter Screenshot](https://via.placeholder.com/800x400.png?text=VR+Basketball+Shooter+Gameplay)  
 *Realistic physics-based VR basketball simulation built in Unity*
 
 ---
